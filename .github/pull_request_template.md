@@ -11,6 +11,5 @@
 
 ## Checklist
 - [ ] Code is linted
-- [ ] Code builds successfully
 - [ ] Functionality verified for edge cases (e.g., n = 0, n = 1)
 - [ ] PR description filled out

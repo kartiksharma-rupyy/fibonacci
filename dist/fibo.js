@@ -1,5 +1,5 @@
 "use strict";
-function fibo(n) {
+function fibo(n:number):number {
     if (n == 1) {
         return 1;
     }
@@ -22,3 +22,5 @@ function fibo(n) {
 // }
 console.log(fibo(4));
 console.log(fibo(5));
+
+//raising pr 
