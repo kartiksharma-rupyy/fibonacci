@@ -20,5 +20,6 @@ function fibo(n:number) :number {
 //     console.log(fibo(num));
 //   }
 // }
+// commented out code for nodejs
 console.log(fibo(4));
 console.log(fibo(5));
